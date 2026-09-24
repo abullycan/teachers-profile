@@ -25,7 +25,7 @@ window.SITE_CONTENT = {
   */
   reviews: [
     { image: "num1.jpg" },
-    { image: "" },
-    { image: "" }
+    { image: "num2.jpg" },
+    { image: "num3.jpg" }
   ]
 };
