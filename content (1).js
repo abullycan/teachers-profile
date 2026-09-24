@@ -6,7 +6,7 @@ window.SITE_CONTENT = {
     2. Напишите здесь его имя, например: "zhanna.jpg"
     3. Если фото пока нет, оставьте пустые кавычки.
   */
-  photo: "",
+  photo: "zhanna.jpg",
 
   /*
     Диплом:
@@ -24,7 +24,7 @@ window.SITE_CONTENT = {
     3. Если отзыва пока нет, оставьте поле image пустым — оно не покажется.
   */
   reviews: [
-    { image: "" },
+    { image: "num1.jpg" },
     { image: "" },
     { image: "" }
   ]
